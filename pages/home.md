@@ -28,8 +28,8 @@ Welcome to **Attelabidae Online**, a virtual catalog that aims to facilitate the
 
 The following collections have facilitated access to Attelabidae:
 
-* **ASUCOB**  O'Brien Collection, Arizona State University, USA (Dr. Sangmi Lee, Dr. Nico Franz)
-* **ASUHIC**  Hasbrouck Insect Collection, Arizona State University, USA (Dr. Sangmi Lee, Dr. Nico Franz)
+* **ASUCOB**  O'Brien Collection, Arizona State University, USA (Dr. Sangmi Lee)
+* **ASUHIC**  Hasbrouck Insect Collection, Arizona State University, USA (Dr. Sangmi Lee)
   
 ## Announcements
 * **2024-09-20** - Our website is live!
