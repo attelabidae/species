@@ -1,5 +1,7 @@
 ---
-layout: blank
+title: Attelabidae of the World Online
+lead: A virtual catalog of leaf-rolling weevil species
+project: Attelabidae of the World Online
 ---
 
 <div class="flex flex-col justify-center items-center w-full h-full bg-black bg-opacity-25 text-white gap-4 px-4 box-border bg-hyp">
