@@ -13,7 +13,7 @@ project: Attelabidae of the World Online
   </div>
 
 ## Overview
-Welcome to **Attelabidae Online**, a virtual catalog that aims to facilitate the search of leaf-rolling weevil taxa. The taxonomic database is actively fed on [TaxonWorks](https://taxonworks.org) following specialized scientific literature. Most specimen records and images are the product of the curation, identification, imaging, and digitization of Anthribidae in the [ASU O'Brien Collection](https://ecdysis.org/collections/misc/collprofiles.php?collid=2) on the [ecdysis](https://ecdysis.org) Symbiota portal.  
+Welcome to **Attelabidae Online**, a virtual catalog that aims to facilitate the search of leaf-rolling weevil taxa. The taxonomic database is actively fed on [TaxonWorks](https://taxonworks.org) following specialized scientific literature. Most specimen records and images are the product of the curation, identification, imaging, and digitization of Attelabidae in the [ASU O'Brien Collection](https://ecdysis.org/collections/misc/collprofiles.php?collid=2) on the [ecdysis](https://ecdysis.org) Symbiota portal.  
 
 ## Curators
 
