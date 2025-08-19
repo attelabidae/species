@@ -62,6 +62,12 @@
 
 const AUTHORS = [
   {
+    person: 'Sangmi Lee',
+    position: 'Author',
+    location:
+      'ASU Biocollections, Biodiversity Knowledge Integration Center, Arizona State University, USA'
+  },
+  {
     person: 'K. Samanta Orellana',
     position: 'Author',
     location:
@@ -70,48 +76,13 @@ const AUTHORS = [
 ]
 
 const CONTRIBUTORS = [
-  {
-    person: 'AMNH-',
-    location: 'American Museum of Natural History, USA (Lee Herman)'
-  },
-  {
+   {
     person: 'ASUCOB-',
     location: 'OBrien Collection, Arizona State University, USA (Sangmi Lee)'
   },
    {
     person: 'ASUHIC-',
     location: 'Hasbrouck Insect Collection, Arizona State University, USA (Sangmi Lee)'
-  },
-  {
-    person: 'CIPROC-',
-    location:
-      'Museo de Insectos, Universidad de Costa Rica, Costa Rica (Andrés Arias, Humberto Lezama)'
-  },
-  {
-    person: 'KUNHM-',
-    location:
-      'University of Kansas Biodiversity Institute and Natural History Museum, USA (Zack Falin, Rachel Osborn)'
-  },
-   {
-    person: 'MNCR-',
-    location: 'Museo Nacional de Costa Rica, former INBio, Costa Rica (Marianela Cambronero)'
-  },
-  {
-    person: 'NMNH-',
-    location: 'Smithsonian National Museum of Natural History, USA (Lourdes Chamorro)'
-  },
-   {
-    person: 'NZAC-',
-    location: 'New Zealand Arthropod Collection, New Zealand (Richard Leschen, Grace Hall)'
-  },
-  {
-    person: 'SSAC-',
-    location: 'Salvatore S. Anzaldo Research Collection, USA (Salvatore S. Anzaldo)'
-  },
-  {
-    person: 'UCRG-',
-    location:
-      'Universidad de Costa Rica, Sede Guanacaste, Costa Rica (Jairo Mora)'
   }
 ]
 
