@@ -9,7 +9,7 @@
             project_name
           }}</span>
           <span class="text-lg sm:text-xl text-white px-4"
-            >Online catalog for the fungus weevils of the world</span
+            >Online catalog for the leaf-rolling weevils of the world</span
           >
           <div class="p-4 bg-black bg-opacity-25 w-full max-w-lg box-border">
             <AutocompleteOtu
