@@ -25,7 +25,7 @@
 
 <script setup>
 import { onMounted, ref, computed } from 'vue'
-import header from './images/hypselotropis.png'
+import header from './images/AttelabidaeImage1.jpg'
   
 const props = defineProps({
   duration: {
@@ -37,9 +37,9 @@ const props = defineProps({
 const images = [
 
   {
-    label: 'Hypselotropis prasinata (Fahraeus)',
+    label: 'Pterocolus vogti Hamilton',
     src: header,
-    otuId: 1024403
+    otuId: 1137911
   }
 ]
 
