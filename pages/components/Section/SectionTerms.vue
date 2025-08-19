@@ -3,13 +3,13 @@
     <div class="prose !container mx-auto dark:prose-invert">
       <h2>Find out more</h2>
       <p>
-        Learn how to collaborate with the Anthribidae of the World Online project. Contact information, technical details, and more are available at
+        Learn how to collaborate with the Attelabidae of the World Online project. Contact information, technical details, and more are available at
         <RouterLink to="about">About.</RouterLink>
       </p>
       <h2>Format for referencing this website</h2>
       <p>
         When referencing this website, please use the following format:
-        Orellana, K.S. Anthribidae of the World Online
+        Lee, S., Orellana, K.S. Attelabidae of the World Online
         [retrieval date]. &lt;
         <a :href="project_url">
           {{ project_url }}
