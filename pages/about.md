@@ -1,31 +1,34 @@
 ---
 title: About
-contact_email: sorellana@asu.edu
-copyright: Content CC-BY or CC0. Please attribute correctly to authors and collections!
-citation: Orellana, K.S. 2023. Anthribidae of the World Onlne. Available at https://anthribidae.github.io/species 
+contact_email: user@example.com
+copyright: All content is CC 0 so that it maybe be shared throughout the world in places like Wikipedia.
+citation: Project collaborative. 2022. Website title. Available at https://example.com. 
 ---
-
 
 # {{frontmatter.title}}
 
-The collaborative site is designed to display the diversity of Anthribidae across the world, featuring specimens curated and digitized at the [O’Brien Collection (ASUCOB)]([url](https://ecdysis.org/collections/misc/collprofiles.php?collid=2)), during Samanta Orellana's Ph.D. research activities at Arizona State University. Other collections listed in the homepage have kindly provided specimens to illustrate this group. Additional curators specialized in different bioregions of the world help maintaining the quality of the catalog. 
-
-![ASUCOB0014307_lateral_edited_1613605757](https://github.com/anthribidae/species/assets/69399374/76e3efef-828d-435f-8ecf-86ecc5a84955)
+## Dig deeper
+Please contact us if you need extended access to the data underlying here. The TaxonWorks interfaces used to curate these data include wide range of additional filtering, reporting, and curatorial functionality. With a little training from us we'd be happy to provide you access to this additional functionality. Over time we expect this site to gradually mirror that extended functionality.
 
 ## Contact
-Please contact us via email (samanta.orellana[at]ku.edu) for more information.   
+If you have a question, want to report new data relevant to the project, or have error our preferred means of contact is to file an issue on our [project tracker](https://github.com/our/project/tracker). You can also [chat live with us](https://slackservername). We can also be reached via [email](mailto:{{frontmatter.contact_email}}).   
+
+## Team
+Please contact us if you would like to join this effort.
+
+K. Samanta Orellana - Project lead and curator 
+Sangmi Lee - Project co-lead and curator 
+
 
 ## Citing
-* This website - {{frontmatter.citation}}
-* Individual taxon pages - See citation at the bottom of each page.
-* TaxonWorks - TaxonWorks Community (2022) TaxonWorks [software]. Species File Group (maintainers, [https://speciesfilegroup.org](https://speciesfilegroup.org). Accessible at: [https://github.com/SpeciesFileGroup/taxonworks](https://github.com/SpeciesFileGroup/taxonworks)
+This website - Orellana, K.S., Lee, S. (2024) Available at [https://attelabidae.github.io/species/#/)
+Individual taxon pages - See citation at the bottom of each page.
 
-## Taxonomic Data
- All data behind this site served as JSON through calls to a [TaxonWorks API](https://api.taxonworks.org). You can follow along by using the Console of your browser to explore the Network tab. Most specimen records and images are hosted on the [ecdysis](https://ecdysis.org) Symbiota portal, where the ASU Collections are actively digitized. Additional records originate from scientific literature or were accessed through [GBIF](https://gbif.org).
+## Data
+Data for these pages is collaboratively curated online in a [TaxonWorks](https://taxonworks) project. All data behind this site served as JSON through calls to a [TaxonWorks API](https://api.taxonworks.org). You can follow along by using the Console of your browser to explore the Network tab. 
 
 ## Technical
 Want to create your own site? This website is built completely on open-source software. There is a [site template](https://github.com/SpeciesFileGroup/<something>) with more information. Data are curated in a [TaxonWorks](https://taxonworks.org) project then shared via a [TaxonWorks API](https://api.taxonworks.org). Come [chat](https://gitter.im/SpeciesFileGroup/taxonworks) with the TaxonWorks community at any time.
 
-Check the latest version of the code for this site, here: [![DOI](https://zenodo.org/badge/710038059.svg)](https://zenodo.org/doi/10.5281/zenodo.10278556)
 ## Copyright
 _{{frontmatter.copyright}}_
