@@ -4,7 +4,7 @@
       <div class="prose !container dark:prose-invert">
         <div>
           <p>
-            Welcome to <strong class="font-semibold"> Attelabidae of the World Online</strong>, a virtual catalog that aims to facilitate the search leaf-rolling weevils taxa. The taxonomic database is actively fed on <a 
+            Welcome to <strong class="font-semibold"> Attelabidae Online</strong>, a virtual catalog that aims to facilitate the search leaf-rolling weevils taxa. The taxonomic database is actively fed on <a 
       href="https://taxonworks.org" 
       class="no-underline text-gray-700 font-medium hover:text-gray-900 hover:underline focus:outline-none focus:ring-2 focus:ring-gray-400 transition"
       target="_blank" 
