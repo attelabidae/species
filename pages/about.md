@@ -15,13 +15,14 @@ Please contact us via [email] (slee281@asu.edu) for more information.
 ## Team
 Please contact us if you would like to join this effort.
 
-Sangmi Lee - Project co-lead and curator 
-K. Samanta Orellana - Project lead and curator 
+Sangmi Lee - Project lead and curator 
+K. Samanta Orellana - Project co-lead and curator 
 
 
 ## Citing
-This website - Lee, S., Orellana, K.S. (2024) Available at [https://attelabidae.github.io/species/#/)
+This website - Lee, S., Orellana, K.S. (2024) Attelabidae Online. Available at https://attelabidae.github.io/species/
 Individual taxon pages - See citation at the bottom of each page.
+TaxonWorks - TaxonWorks Community (2022) TaxonWorks [software]. Species File Group maintainers, (https://speciesfilegroup.org). Accessible at: (https://github.com/SpeciesFileGroup/taxonworks)
 
 ## Taxonomic Data
  All data behind this site served as JSON through calls to a [TaxonWorks API](https://api.taxonworks.org). You can follow along by using the Console of your browser to explore the Network tab. Most specimen records and images are hosted on the [ecdysis](https://ecdysis.org) Symbiota portal, where the ASU Collections are actively digitized. Additional records originate from scientific literature or were accessed through [GBIF](https://gbif.org).
