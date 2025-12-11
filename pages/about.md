@@ -7,7 +7,6 @@ citation: Project collaborative. 2022. Website title. Available at https://examp
 
 # {{frontmatter.title}}
 
-## About
 The collaborative site is designed to display the diversity of Attelabidae across the world, featuring specimens curated and digitized at the O’Brien Collection (ASUCOB) at Arizona State University.
 
 ## Contact
