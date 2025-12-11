@@ -1,14 +1,14 @@
 ---
 title: About
-contact_email: user@example.com
+contact_email: slee281@asu.edu
 copyright: All content is CC 0 so that it maybe be shared throughout the world in places like Wikipedia.
 citation: Project collaborative. 2022. Website title. Available at https://example.com. 
 ---
 
 # {{frontmatter.title}}
 
-## Dig deeper
-Please contact us if you need extended access to the data underlying here. The TaxonWorks interfaces used to curate these data include wide range of additional filtering, reporting, and curatorial functionality. With a little training from us we'd be happy to provide you access to this additional functionality. Over time we expect this site to gradually mirror that extended functionality.
+## About
+The collaborative site is designed to display the diversity of Attelabidae across the world, featuring specimens curated and digitized at the O’Brien Collection (ASUCOB) at Arizona State University.
 
 ## Contact
 If you have a question, want to report new data relevant to the project, or have error our preferred means of contact is to file an issue on our [project tracker](https://github.com/our/project/tracker). You can also [chat live with us](https://slackservername). We can also be reached via [email](mailto:{{frontmatter.contact_email}}).   
