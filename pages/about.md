@@ -20,7 +20,7 @@ K. Samanta Orellana - Project lead and curator
 
 
 ## Citing
-This website - Orellana, K.S., Lee, S. (2024) Available at [https://attelabidae.github.io/species/#/)
+This website - Lee, S., Orellana, K.S. (2024) Available at [https://attelabidae.github.io/species/#/)
 Individual taxon pages - See citation at the bottom of each page.
 
 ## Taxonomic Data
