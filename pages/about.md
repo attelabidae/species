@@ -15,7 +15,7 @@ Please contact us via [email] (slee281@asu.edu) for more information.
 ## Team
 Please contact us if you would like to join this effort.
 
-Sangmi Lee - Project lead and curator 
+Sangmi Lee - Project co-lead and curator 
 K. Samanta Orellana - Project co-lead and curator 
 
 
