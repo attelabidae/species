@@ -7,7 +7,7 @@ citation: Project collaborative. 2022. Website title. Available at https://examp
 
 # {{frontmatter.title}}
 
-The collaborative site is designed to display the diversity of Attelabidae across the world, featuring specimens curated and digitized at the O’Brien Collection (ASUCOB) at Arizona State University. Additional curators specialized in different bioregions of the world help maintaining the quality of the catalog.
+The collaborative site is designed to display the diversity of Attelabidae across the world, featuring specimens curated and digitized at the O’Brien Collection (ASUCOB) and the Hasbrouck Insect Collection (ASUHIC) at Arizona State University. Additional curators specialized in different bioregions of the world help maintaining the quality of the catalog.
 
 ## Contact
 Please contact us via [email] (slee281@asu.edu) for more information.  
@@ -15,8 +15,8 @@ Please contact us via [email] (slee281@asu.edu) for more information.
 ## Team
 Please contact us if you would like to join this effort.
 
-K. Samanta Orellana - Project lead and curator 
 Sangmi Lee - Project co-lead and curator 
+K. Samanta Orellana - Project lead and curator 
 
 
 ## Citing
